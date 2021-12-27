@@ -1,0 +1,27 @@
+{
+    "app.home": "Inicio",
+    "app.title": "Mis juegos",
+    "menu.tictactoe": "TresEnRaya",
+    "menu.quiz": "Quizzes",
+    "app.welcome":"Bienvenido a la página principal de minijuegos en React. En esta página podrás jugar a diferentes juegos. Haz clic en la pestaña del juego a que quieras jugar.",
+    "quiz.create": "Creado por",
+    "quiz.answer": "Respuesta: ",
+    "quiz.congrat1": "Enhorabuena",
+    "quiz.congrat2": "Otra vez será",
+    "quiz.correct": "Correcta",
+    "quiz.incorrect": "Incorrecta",
+    "quiz.no.answer": "Sin responder",
+    "quiz.question": "Pregunta",
+    "quiz.notification": " has acertado",
+    "quiz.anonymous": "Ánonimo",
+    "quiz.restart": "Vuelve a jugar",
+    "quiz.reset": "Reset",
+    "quiz.back": "Anterior",
+    "quiz.next": "Siguiente",
+    "quiz.submit": "Terminar",
+    "turn":"Turno",
+    "moves":"Número de movimientos: ",
+    "player1": "Jugador1 - X",
+    "player2": "Jugador2 - O"
+
+}

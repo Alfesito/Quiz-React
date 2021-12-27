@@ -1,0 +1,29 @@
+{
+    "app.home": "Home",
+    "app.title": "My games",
+    "menu.tictactoe": "TicTacToe",
+    "menu.quiz": "Quizzes",
+    "app.welcome":"Welcome to the React minigames homepage. On this page you can play different games. Click on the tab to play the game you want.",
+    "quiz.create": "Created by",
+    "quiz.answer": "Answer: ",
+    "quiz.congrat1": "Congrats!!",
+    "quiz.congrat2": "Try next time",
+    "quiz.correct": "Correct",
+    "quiz.incorrect": "Incorrect",
+    "quiz.no.answer": "No answer",
+    "quiz.question": "Question",
+    "quiz.notification": " you have answered",
+    "quiz.anonymous": "Anonymous",
+    "quiz.restart": "Play again",
+    "quiz.reset": "Reset",
+    "quiz.back": "Back",
+    "quiz.next": "Next",
+    "quiz.submit": "Submit",
+    "turn":"Turn",
+    "moves":"Number of moves: ",
+    "player1": "Player1 - X",
+    "player2": "Player2 - O"
+
+
+
+}
